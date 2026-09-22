@@ -1,0 +1,23 @@
+name: Release template (manual example)
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version without v prefix, e.g. 0.13.3'
+        required: true
+        type: string
+jobs:
+  validate-release-asset:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download public release asset and print SHA-256
+        shell: bash
+        run: |
+          set -euo pipefail
+          archive="releases/PolishShopSimulator-v${{ inputs.version }}-Windows.zip"
+          mkdir -p releases
+          curl --fail --location --retry 3 "https://github.com/${{ github.repository }}/releases/download/v${{ inputs.version }}/PolishShopSimulator-v${{ inputs.version }}-Windows.zip" --output "$archive"
+          sha256sum "$archive"
+          stat -c '%s bytes' "$archive"
+      - name: Guidance
+        run: echo 'This template never creates a GitHub Release or pushes. Publish manually after review.'
