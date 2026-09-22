@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "game": "Polish Shop Simulator",
+  "channel": "stable",
+  "version": "0.13.2",
+  "release_name": "v0.13.2 Hotfix",
+  "mandatory": false,
+  "download_url": "https://github.com/domkor2012-sys/PolishShopSimulator-Updates/releases/download/v0.13.2/PolishShopSimulator-v0.13.2-Windows.zip",
+  "sha256": "a0b38f5cdba78d7b66616fc14b2c20cc0d810ba64820dc4f9aeb971ed909b2a1",
+  "size_bytes": 52347072,
+  "release_notes": [
+    "Poprawiono widoczność zaparkowanych hulajnóg i start muzyki eventu.",
+    "Płatność Mietka przechodzi przez normalny system checkout.",
+    "Kwestie dubbingowe Mietka kończą się przed kolejną kwestią i despawnem."
+  ]
+}
