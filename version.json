@@ -2,15 +2,15 @@
   "schema": 1,
   "game": "Polish Shop Simulator",
   "channel": "stable",
-  "version": "0.13.2",
-  "release_name": "v0.13.2 Hotfix",
+  "version": "0.14.0",
+  "release_name": "v0.14.0 Frozen Foods",
   "mandatory": false,
-  "download_url": "https://github.com/domkor2012-sys/PolishShopSimulator-Updates/releases/download/v0.13.2/PolishShopSimulator-v0.13.2-Windows.zip",
-  "sha256": "a0b38f5cdba78d7b66616fc14b2c20cc0d810ba64820dc4f9aeb971ed909b2a1",
-  "size_bytes": 52347072,
+  "download_url": "https://github.com/domkor2012-sys/PolishShopSimulator-Updates/releases/download/v0.14.0/Polish-Shop-Simulator-v0.14.0-Windows.zip",
+  "sha256": "a521df711c785f7c23398dcffec88aa1302567213f5ac2f4d7b74a125e163019",
+  "size_bytes": 54758008,
   "release_notes": [
-    "Poprawiono widoczność zaparkowanych hulajnóg i start muzyki eventu.",
-    "Płatność Mietka przechodzi przez normalny system checkout.",
-    "Kwestie dubbingowe Mietka kończą się przed kolejną kwestią i despawnem."
+    "M14: mrożonki, zamrażarki i dostawy.",
+    "Naprawiono wybór oraz zapis pozycji dostaw lodów, frytek i pierogów w Build Mode.",
+    "Wydanie v0.14.0; nie zawiera eksperymentalnych zmian M15."
   ]
 }
