@@ -5,7 +5,7 @@
   "version": "0.15.0-test",
   "version_code": 15001,
   "package": "pl.playflower.polishshopsimulator",
-  "apk_url": "https://github.com/domkor2012-sys/PolishShopSimulator-Updates/releases/download/android-m15-0.15.0-test/Polish%20Shop%20Simulator.apk",
+  "apk_url": "https://github.com/domkor2012-sys/PolishShopSimulator-Updates/releases/download/android-m15-0.15.0-test/Polish.Shop.Simulator.apk",
   "sha256": "e40cbe83f48c1cef37a22863dc72f36a408bc99fa07bb2d92a3e944296f6c809",
   "size_bytes": 73385350,
   "minimum_launcher_version": 100,
