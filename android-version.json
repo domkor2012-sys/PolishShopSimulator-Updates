@@ -2,15 +2,15 @@
   "schema": 1,
   "game": "Polish Shop Simulator",
   "channel": "android-test",
-  "version": "0.15.3-test",
-  "version_code": 15004,
+  "version": "0.15.4-test",
+  "version_code": 15005,
   "package": "pl.playflower.polishshopsimulator",
-  "apk_url": "https://github.com/domkor2012-sys/PolishShopSimulator-Updates/releases/download/android-m15-0.15.3-test/Polish.Shop.Simulator.apk",
-  "sha256": "5a8dc917e5c8aaecd00eb12427104dc1f3452a839d90bda347af8ff29b188a3c",
+  "apk_url": "https://github.com/domkor2012-sys/PolishShopSimulator-Updates/releases/download/android-m15-0.15.4-test/Polish.Shop.Simulator.apk",
+  "sha256": "d5b239ebfdf35c4f028df73183a098dc49cb2a33c3951f4b16babc40e3124738",
   "size_bytes": 74803841,
   "minimum_launcher_version": 100,
   "release_notes": [
-    "M15: wielu magazynierów, cztery skiny, zatrudnianie i ulepszenia.",
-    "Przywrócono ustawienia dotyku i orientacji Androida."
+    "Mobilny przycisk Magazynierzy jest częścią prawej kolumny akcji.",
+    "Android Back zamyka ekran magazynierów."
   ]
 }
