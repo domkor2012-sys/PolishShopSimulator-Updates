@@ -2,15 +2,15 @@
   "schema": 1,
   "game": "Polish Shop Simulator",
   "channel": "stable",
-  "version": "0.14.0",
-  "release_name": "v0.14.0 Frozen Foods",
+  "version": "0.15.2",
+  "release_name": "Polish Shop Simulator v0.15.2 M15",
   "mandatory": false,
-  "download_url": "https://github.com/domkor2012-sys/PolishShopSimulator-Updates/releases/download/v0.14.0/Polish-Shop-Simulator-v0.14.0-Windows.zip",
-  "sha256": "a521df711c785f7c23398dcffec88aa1302567213f5ac2f4d7b74a125e163019",
-  "size_bytes": 54758008,
+  "download_url": "https://github.com/domkor2012-sys/PolishShopSimulator-Updates/releases/download/v0.15.2/PolishShopSimulator-v0.15.2-Windows.zip",
+  "sha256": "9c6a9f638a055516a9d6ae574712d9d3ea52840dfb068349a8900fd5c0fb769c",
+  "size_bytes": 56017691,
   "release_notes": [
-    "M14: mrożonki, zamrażarki i dostawy.",
-    "Naprawiono wybór oraz zapis pozycji dostaw lodów, frytek i pierogów w Build Mode.",
-    "Wydanie v0.14.0; nie zawiera eksperymentalnych zmian M15."
+    "M15: wielu magazynierów i cztery skiny.",
+    "Ekran zatrudniania oraz osobne statystyki i ulepszenia magazynierów.",
+    "Poprawki M15 i zachowanie zapisu."
   ]
 }

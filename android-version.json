@@ -2,14 +2,15 @@
   "schema": 1,
   "game": "Polish Shop Simulator",
   "channel": "android-test",
-  "version": "0.15.1-test",
-  "version_code": 15002,
+  "version": "0.15.2-test",
+  "version_code": 15003,
   "package": "pl.playflower.polishshopsimulator",
-  "apk_url": "https://github.com/domkor2012-sys/PolishShopSimulator-Updates/releases/download/android-m15-0.15.1-test/Polish.Shop.Simulator.apk",
-  "sha256": "8dde67d41edce1dda147a2305d8e14aaaada4de8af163d0234ae5d5bfe221922",
-  "size_bytes": 73397809,
+  "apk_url": "https://github.com/domkor2012-sys/PolishShopSimulator-Updates/releases/download/android-m15-0.15.2-test/Polish.Shop.Simulator.apk",
+  "sha256": "52adad52fa563e6506b505c313fc614c2f7da7b866bca41c0a916cb53b7df54d",
+  "size_bytes": 74803841,
   "minimum_launcher_version": 100,
   "release_notes": [
-    "Ulepszony mobilny Tryb Budowania. Łatwiejsze zaznaczanie, przenoszenie i zatwierdzanie obiektów."
+    "M15: wielu magazynierów, cztery skiny, zatrudnianie i ulepszenia.",
+    "Zachowano dotykowy Build Mode i zapis gry."
   ]
 }
