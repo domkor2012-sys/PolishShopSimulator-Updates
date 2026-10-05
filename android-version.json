@@ -2,16 +2,16 @@
   "schema": 1,
   "game": "Polish Shop Simulator",
   "channel": "android-test",
-  "version": "0.16.0-beta.1",
-  "version_code": 16001,
+  "version": "0.16.0-beta.2",
+  "version_code": 16002,
   "package": "pl.playflower.polishshopsimulator",
-  "apk_url": "https://github.com/domkor2012-sys/PolishShopSimulator-Updates/releases/download/android-m16-0.16.0-beta.1/Polish.Shop.Simulator.Beta.apk",
-  "sha256": "55df879c042f936a8f4b69a9dee89ac052eaceeabb5599724beed6a71295953c",
-  "size_bytes": 74816129,
+  "apk_url": "https://github.com/domkor2012-sys/PolishShopSimulator-Updates/releases/download/m16-0.16.0-beta.2/Polish.Shop.Simulator.Beta.2.apk",
+  "sha256": "fcc45b154508449cdf747b710179cde014ad2f8cef262c9d732f57ea97805ed7",
+  "size_bytes": 74820225,
   "minimum_launcher_version": 100,
   "release_notes": [
-    "M16 Beta 1.0: zużycie zamrażarek, ostrzeżenia, awaria i naprawa po przytrzymaniu przycisku.",
-    "Po awarii: topnienie po 7 s, utrata towaru po 25 s; stan zachowuje się w zapisie.",
-    "Build Mode i interfejs Androida pozostają dostępne."
+    "M16 Beta 1.1: 50 minut do awarii zamrażarki przy normalnej pracy; progi i topnienie pozostają bez zmian.",
+    "Głos Pana Mietka pauzuje i wznawia się w Build Mode.",
+    "Poprawione sortowanie postaci oraz kolizje spawnu EZ BOOST."
   ]
 }

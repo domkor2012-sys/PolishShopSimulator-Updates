@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "game": "Polish Shop Simulator",
+  "channel": "beta",
+  "version": "0.16.0-beta.2",
+  "release_name": "Polish Shop Simulator M16 Beta 1.1",
+  "mandatory": false,
+  "download_url": "https://github.com/domkor2012-sys/PolishShopSimulator-Updates/releases/download/m16-0.16.0-beta.2/PolishShopSimulator-v0.16.0-beta.2-Windows.zip",
+  "sha256": "ad2502372bfe59716530414399c149a53ccca990808b1d01b46e351e6ef01dce",
+  "size_bytes": 56032559,
+  "release_notes": [
+    "M16 Beta 1.1: zamrażarki zużywają się przez około 50 minut normalnej pracy.",
+    "Głos Pana Mietka zatrzymuje się w Build Mode i wraca od tego samego miejsca.",
+    "Poprawione sortowanie Y gangu i produktów klientów oraz bezpieczny spawn EZ BOOST."
+  ]
+}
